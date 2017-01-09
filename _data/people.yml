@@ -1,28 +1,28 @@
 ## White House Advisory Roles
 AdvisoryRoles:
-  - ChiefOfStaff: **Reince Priebus**
-  - ChiefStrategist: **Stephen/Steve Bannon**
-  - NationalSecurityAdviser: **Michael Flynn**
-  - CounsellorToThePresident: **Kellyanne Conway**
+  ChiefOfStaff: **Reince Priebus**
+  ChiefStrategist: **Stephen/Steve Bannon**
+  NationalSecurityAdviser: **Michael Flynn**
+  CounsellorToThePresident: **Kellyanne Conway**
 ## Cabinet
 Cabinet:
-  - SecretaryOfState: **Rex Tillerson**
-  - Treasury: **Steven Mnuchin**
-  - Defence: **Gen James Mattis**
-  - AttorneyGeneral: **Jeff Sessions**
-  - InteriorSecretary: **Ryan Zinke**
-  - Agriculture
-  - Commerce: **Wilbur Ross**
-  - Labour: **Andrew Puzder**
-  - HealthNHumanServices: **Tom Price**
-  - HousingNUrban Development: **Ben Carson**
-  - Transportation: **Elaine Chao**
-  - Energy: **Rick Perry**
-  - Education: **Betsy DeVos**
-  - VeteransAffairs
-  - HomelandSecurity **Gen John Kelly**
+  SecretaryOfState: **Rex Tillerson**
+  Treasury: **Steven Mnuchin**
+  Defence: **Gen James Mattis**
+  AttorneyGeneral: **Jeff Sessions**
+  InteriorSecretary: **Ryan Zinke**
+  Agriculture
+  Commerce: **Wilbur Ross**
+  Labour: **Andrew Puzder**
+  HealthNHumanServices: **Tom Price**
+  HousingNUrban Development: **Ben Carson**
+  Transportation: **Elaine Chao**
+  Energy: **Rick Perry**
+  Education: **Betsy DeVos**
+  VeteransAffairs
+  HomelandSecurity **Gen John Kelly**
 ## not really cabinet
-  - AmbassadorToTheUN **Nikki Haley**
+  AmbassadorToTheUN **Nikki Haley**
 ## ?
 Other:  
-  - NationalIntelligenceDirector: **Dan Coats**
+  NationalIntelligenceDirector: **Dan Coats**
