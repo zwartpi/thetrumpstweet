@@ -27,3 +27,11 @@
 - Ambassador to the UN : **Nikki Haley**
 
 - National Intelligence Director : **Dan Coats**
+
+*From Data*:
+
+- {{ site.data.people.ChiefOfStaff }}
+- {{ site.data.people.ChiefStrategist }}
+- {{ site.data.people.NationalSecurityAdviser }}
+- {{ site.data.people.CounsellorToThePresident }}
+
