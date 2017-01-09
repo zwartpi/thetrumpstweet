@@ -1,0 +1,11 @@
+header, footer {
+  background-color: black;
+  color: white;
+  font-family: monospace, consolas;
+}
+
+section {
+  background-color: slateblue;
+  display: flex;
+  align-items: center;
+}
