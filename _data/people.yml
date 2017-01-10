@@ -1,11 +1,11 @@
 ## White House Advisory Roles
-AdvisoryRoles:
+#AdvisoryRoles:
   ChiefOfStaff: Reince Priebus
   ChiefStrategist: Stephen Steve Bannon
   NationalSecurityAdviser: Michael Flynn
   CounsellorToThePresident: Kellyanne Conway
 ## Cabinet
-Cabinet:
+#Cabinet:
   SecretaryOfState: Rex Tillerson
   Treasury: Steven Mnuchin
   Defence: Gen James Mattis
@@ -24,5 +24,5 @@ Cabinet:
 ## not really cabinet
   AmbassadorToTheUN: Nikki Haley
 ## ?
-Other:  
+#Other:  
   NationalIntelligenceDirector: Dan Coats
