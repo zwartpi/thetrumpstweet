@@ -33,8 +33,8 @@ layout: dataviewer
 
 *From Data*:
 
-- [{{ site.data.people.ChiefOfStaff.Name }}](https://twitter.com/{{ site.data.people.ChiefOfStaff.Twitter }}
-- {{ site.data.people.ChiefStrategist.Name }}
+- [{{ site.data.people.ChiefOfStaff.Name }}](https://twitter.com/{{ site.data.people.ChiefOfStaff.Twitter }})
+- [{{ site.data.people.ChiefStrategist.Name }}](https://twitter.com/{{ site.data.people.ChiefStrategist.Twitter }}
 - {{ site.data.people.NationalSecurityAdviser.Name }}
 - {{ site.data.people.CounsellorToThePresident.Name }}
 
