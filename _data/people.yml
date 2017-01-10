@@ -1,9 +1,17 @@
 ## White House Advisory Roles
 #AdvisoryRoles:
-  ChiefOfStaff: Reince Priebus
-  ChiefStrategist: Stephen Steve Bannon
-  NationalSecurityAdviser: Michael Flynn
-  CounsellorToThePresident: Kellyanne Conway
+  ChiefOfStaff: 
+    Name: Reince Priebus
+    Twitter: reince
+  ChiefStrategist: 
+    Name: Stephen Steve Bannon
+    Twitter: stephenbannon
+  NationalSecurityAdviser: 
+    Name: Michael Flynn
+    Twitter: genflynn
+  CounsellorToThePresident: 
+    Name: Kellyanne Conway
+    Twitter: kellyannepolls
 ## Cabinet
 #Cabinet:
   SecretaryOfState: Rex Tillerson
