@@ -1,0 +1,5 @@
+- http://www.nbcnews.com/meet-the-press
+- http://www.cbsnews.com/60-minutes/
+- http://www.msnbc.com/morning-joe
+- http://www.foxnews.com/on-air/fox-and-friends/
+- https://www.accesshollywood.com/
