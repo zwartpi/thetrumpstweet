@@ -9,6 +9,8 @@ layout: dataviewer
 - National Security Adviser : **Michael Flynn**
 - Counsellor to the president : **Kellyanne Conway**
 
+- Senior Advisor : **Stephen Miller** 
+
 ## Cabinet
 
 - Secretary of State : **Rex Tillerson**
