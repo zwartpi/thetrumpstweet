@@ -33,6 +33,10 @@ layout: dataviewer
 
 - National Intelligence Director : **Dan Coats**
 
+## Former transition team
+
+- Head : **Myron Ebell** 
+
 *From Data*:
 
 - [{{ site.data.people.ChiefOfStaff.Name }}](https://twitter.com/{{ site.data.people.ChiefOfStaff.Twitter }})
