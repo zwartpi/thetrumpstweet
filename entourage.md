@@ -6,8 +6,10 @@ layout: dataviewer
 
 - Chief of Staff : **Reince Priebus**
 - Chief Strategist : **Stephen/Steve Bannon**
-- National Security Adviser : **Michael Flynn**
-- Counsellor to the president : **Kellyanne Conway**
+- National Security Adviser : 
+  - start to 2017-02-13 : **Michael Flynn** (https://en.wikipedia.org/wiki/Michael_T._Flynn)
+  - 2017-02-14 to present : **Keith Kellog** (https://en.wikipedia.org/wiki/Keith_Kellogg)
+- Counsellor to the president : **Kellyanne Conway** (miss *Alternative Facts*)
 
 - Senior Advisor : **Stephen Miller** 
 
