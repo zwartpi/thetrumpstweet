@@ -9,7 +9,7 @@ layout: dataviewer
 - National Security Adviser : 
   - start to 2017-02-13 : **Michael Flynn** (https://en.wikipedia.org/wiki/Michael_T._Flynn)
   - 2017-02-14 to present : **Keith Kellog** (https://en.wikipedia.org/wiki/Keith_Kellogg)
-- Counsellor to the president : **Kellyanne Conway** (miss *Alternative Facts*)
+- Counsellor to the president : **Kellyanne Conway**
 
 - Senior Advisor : **Stephen Miller** 
 
